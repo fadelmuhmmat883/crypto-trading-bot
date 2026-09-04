@@ -1,0 +1,6 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>CtyBot.Core</RootNamespace>
+    <AssemblyName>CtyBot.Core</AssemblyName>
+  </PropertyGroup>
+</Project>
