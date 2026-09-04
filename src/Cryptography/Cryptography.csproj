@@ -1,0 +1,7 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <RootNamespace>CtyBot.Cryptography</RootNamespace>
+    <AssemblyName>CtyBot.Cryptography</AssemblyName>
+    <Description>BIP-39/32 derivation, vault encryption, codecs and signing.</Description>
+  </PropertyGroup>
+</Project>
